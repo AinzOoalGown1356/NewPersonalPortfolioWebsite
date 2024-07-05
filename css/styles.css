@@ -90,11 +90,9 @@
     scroll-behavior: smooth;
   }
 }
-
 .auto-type {
   font-size: 60px;
 }
-
 body {
   background: linear-gradient(to right, #85a0ec, #a986d8);
   margin: 0;

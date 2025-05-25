@@ -91,6 +91,13 @@
   }
 }
 
+@media (max-width: 768px) {
+  html, body {
+      overflow-x: hidden;
+  }
+}
+
+
 body {
   background: linear-gradient(to right, #85a0ec, #a986d8);
   margin: 0;
